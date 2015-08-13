@@ -1,0 +1,2 @@
+* intro-to-fp-through-lambda-calculus
+Working through the exercises in [[http://www.macs.hw.ac.uk/~greg/books/][An Introduction to Functional Programming Through Lambda Calculus]].
